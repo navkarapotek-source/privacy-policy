@@ -95,8 +95,8 @@ If you have any questions, feedback, or concerns regarding this Privacy Policy o
 
 * **Company Name:** Navkar Apotek LLP  
 * **Operational Facility:** Ahmedabad / Baramati, India  
-* **Privacy Officer / Contact Email:** `[INSERT_OFFICIAL_CONTACT_EMAIL]` *(e.g., support@navkarapotek.com)*  
-* **Phone:** `[INSERT_OFFICIAL_CONTACT_PHONE]`  
+* **Privacy Officer / Contact Email:** `navkarapotek@gmail.com`*  
+* **Phone:** `9158588188`  
 * **Official Website:** `https://navkarapotek.com` *(or company corporate portal)*  
 
 ---
